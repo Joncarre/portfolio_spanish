@@ -1,0 +1,35 @@
+/* Animated gradient text effect */
+.animated-gradient-text {
+  position: relative;
+  display: inline-block;
+}
+
+.animated-gradient-text .text-content {
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  animation: gradientMove linear infinite;
+}
+
+.animated-gradient-text .gradient-overlay {
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background-size: 200% auto;
+  border-radius: 4px;
+  animation: gradientMove linear infinite;
+  z-index: -1;
+}
+
+@keyframes gradientMove {
+  0% {
+    background-position: 0% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
