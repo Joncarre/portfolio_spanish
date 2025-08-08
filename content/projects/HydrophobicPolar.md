@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-A console application that extends the Hydrophobic-Polar protein model to find optimal protein folding configurations, significantly reducing computational complexity.
+Una aplicación de consola que extiende el modelo de proteínas Hidrofóbico-Polar para encontrar configuraciones óptimas de plegamiento de proteínas, reduciendo significativamente la complejidad computacional.

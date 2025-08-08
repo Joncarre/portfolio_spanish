@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-Data structures and algorithm development using techniques such as Depth First Search, Breadth First Search, Divide and Conquer, etc.
+Estructuras de datos y desarrollo de algoritmos utilizando técnicas como Búsqueda en Profundidad, Búsqueda en Anchura, Divide y Vencerás, etc.

@@ -56,23 +56,23 @@ const Contact = () => {
 
   return (
     <StyledContactSection id="contact" ref={revealContainer}>
-      <h2 className="numbered-heading overline">What’s next?</h2>
+      <h2 className="numbered-heading overline">¿Qué sigue?</h2>
 
-      <h2 className="title">Get in touch</h2>
+      <h2 className="title">Estemos en contacto</h2>
 
       <p>
-        I'm looking for{' '}
+        Estoy buscando{' '}
         <GradientText
           colors={['#e9d7a5', '#a18a7d', '#e9d7a5', '#a18a7d', '#e9d7a5']}
           animationSpeed={6}>
-          new opportunities
+          nuevas oportunidades
         </GradientText>{' '}
-        to grow within the area of resource optimization, project management and cybersecurity.
-        Whether you have a question or just want to say hi, I'll do my best to get back to you!
+        para crecer en el área de la gestión de proyectos y ciberseguridad.
+        Si tienes alguna pregunta o simplemente quieres saludar, ¡estaré encantado de responderte!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+        Contacto
       </a>
     </StyledContactSection>
   );

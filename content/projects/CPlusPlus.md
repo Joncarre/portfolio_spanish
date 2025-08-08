@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-From console applications and games to implementations of various data structures and algorithms.
+Desde aplicaciones de consola y juegos hasta implementaciones de varias estructuras de datos y algoritmos.

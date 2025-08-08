@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-Genetic algorithms that enable experimental tests on resource allocation and strategies to maximize benefits.
+Algoritmos genéticos que permiten pruebas experimentales sobre asignación de recursos y estrategias para maximizar beneficios.

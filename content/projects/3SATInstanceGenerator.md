@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-Decentralized application that allows the generation of random instances of the 3-SAT problem. These are used for testing algorithms. The application is deployed on the blockchain.
+Aplicación descentralizada que permite la generación de instancias aleatorias del problema 3-SAT. Estas se utilizan para probar algoritmos. La aplicación está desplegada en la blockchain.

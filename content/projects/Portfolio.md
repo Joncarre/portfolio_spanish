@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-Design modification based on the incredible work done by Brittany Chiang.
+Modificación del diseño basada en el increíble trabajo realizado por Brittany Chiang.

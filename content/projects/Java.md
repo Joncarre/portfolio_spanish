@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-Numerous Java projects focused on code quality, OOP features, threads, patterns, UML designs and use of Swing.
+Numerosos proyectos en Java enfocados en la calidad del código, características de POO, hilos, patrones, diseños UML y uso de Swing.

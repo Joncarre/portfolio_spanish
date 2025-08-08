@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-Documentation in Spanish about my step-by-step solutions for Hack the Box machines.
+Documentación en español sobre mis soluciones paso a paso para las máquinas de Hack the Box.

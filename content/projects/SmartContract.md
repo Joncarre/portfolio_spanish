@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-This smart contract developed in Solidity allows for electronic auctions via console. The contract incorporates security measures that guarantee its proper functioning.
+Este contrato inteligente desarrollado en Solidity permite realizar subastas electrónicas a través de consola. El contrato incorpora medidas de seguridad que garantizan su correcto funcionamiento.
