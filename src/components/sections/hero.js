@@ -60,26 +60,26 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
+  const one = <h1>Hola, mi nombre es</h1>;
   const two = <h2 className="big-heading">Jonathan Carrero</h2>;
-  const three = <h3 className="medium-heading">Specialized in resource optimization</h3>;
+  const three = <h3 className="medium-heading">Especializado en la optimización de recursos</h3>;
   const four = (
     <>
       <p>
-        I'm a{' '}
+        Soy un Doctor {' '}
         <GradientText
           colors={['#e9d7a5', '#a18a7d', '#e9d7a5', '#a18a7d', '#e9d7a5']}
           animationSpeed={6}>
-          PhD. Software Engineer
+          Ingeniero de Software
         </GradientText>{' '}
-        specialized in resource optimization, formal methods, cybersecurity and project management
-        under the{' '}
+        especializado en optimización de recursos, métodos formales, ciberseguridad y gestión de proyectos
+        bajo la organización {' '}
         <GradientText
           colors={['#e9d7a5', '#a18a7d', '#e9d7a5', '#a18a7d', '#e9d7a5']}
           animationSpeed={6}>
-          Project Management Institute
+          Project Management Institute.
         </GradientText>{' '}
-        framework.
+        
       </p>
     </>
   );
@@ -89,7 +89,7 @@ const Hero = () => {
       href="https://scholar.google.es/citations?user=TdwutvkAAAAJ&hl=en"
       target="_blank"
       rel="noreferrer">
-      Check out my articles!
+      ¡Estas son mis áreas de investigación!
     </a>
   );
 

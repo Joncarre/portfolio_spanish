@@ -143,40 +143,38 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm a person who is very curious to know how things work. I like dealing with people,
-              being{' '}
+              Soy un Ing. de Software e investigador que hace unos meses decidió dejar el ámbito educativo y buscar nuevas oportunidades en desarrollo, ciberseguridad, optimización de recursos y, sobre todo, en la{' '}
               <GradientText
                 colors={['#e9d7a5', '#a18a7d', '#e9d7a5', '#a18a7d', '#e9d7a5']}
                 animationSpeed={6}>
-                positive
+                gestión de proyectos 
               </GradientText>{' '}
-              and{' '}
+              . Soy curioso, positivo,  {' '}
               <GradientText
                 colors={['#e9d7a5', '#a18a7d', '#e9d7a5', '#a18a7d', '#e9d7a5']}
                 animationSpeed={6}>
-                organized
+                organizado
               </GradientText>{' '}
-              in what I do.
+              y me gusta abordar problemas complejos y estar siempre estudiando y aprendiendo cosas nuevas.
             </p>
 
             <p>
-              In the first quarter of 2025, I decided to leave the educational field to{' '}
+              Espero poder seguir desarrollando mis {' '}
               <GradientText
                 colors={['#e9d7a5', '#a18a7d', '#e9d7a5', '#a18a7d', '#e9d7a5']}
                 animationSpeed={6}>
-                focus
+                 habilidades
               </GradientText>{' '}
-              my career in the business world, where I hope to meet incredible people with whom I
-              can continue{' '}
+              y conocimiento en el mundo empresarial, y conocer personas increíbles con las que seguir {' '}
               <GradientText
                 colors={['#e9d7a5', '#a18a7d', '#e9d7a5', '#a18a7d', '#e9d7a5']}
                 animationSpeed={6}>
-                to grow
-              </GradientText>
+                creciendo
+              </GradientText>{' '}
               .
             </p>
 
-            <p>Here are a few things I like to work with:</p>
+            <p>Estas son algunas de las cosas con las que me gusta trabajar:</p>
           </div>
 
           <ul className="skills-list">
