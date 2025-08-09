@@ -7,6 +7,6 @@ range: 'January 2019 - June 2023'
 url: 'https://informatica.ucm.es/'
 ---
 
-- Researcher in the _Formal Analysis and Design of Software Systems_ group at the Complutense University of Madrid
-- Research area within the multi-agent resource sharing
-- Study and analysis of computational complexity
+- Investigador en el grupo de _Análisis Formal y Diseño de Sistemas Software_ de la Universidad Complutense de Madrid
+- Área de investigación en la compartición de recursos entre agentes múltiples
+- Estudio y análisis de la complejidad computacional

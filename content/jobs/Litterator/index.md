@@ -7,6 +7,6 @@ range: 'February 2021 - February 2025'
 url: 'https://colegiolitterator.com/'
 ---
 
-- Professor of Multiplatform Application Development
-- Throughout the 5 years I have taught all the subjects of the degree
-- Project management at teaching level using the Scrum framework
+- Profesor de Desarrollo de Aplicaciones Multiplataforma
+- Durante los 5 años he impartido todas las asignaturas del grado
+- Gestión de proyectos a nivel docente utilizando el marco Scrum

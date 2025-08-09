@@ -12,5 +12,4 @@ tech:
   - DApp
 ---
 
-A blockchain-based tool is presented that enables
-the generation of dynamic benchmarks. By using it, we can securely manage the use of dynamic benchmarks without the need for a trusted third party.
+Se presenta una herramienta basada en blockchain que permite la generación de benchmarks dinámicos. Al utilizarla, podemos gestionar de forma segura el uso de estos benchmarks sin necesidad de un tercero de confianza.

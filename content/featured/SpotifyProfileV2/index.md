@@ -11,4 +11,4 @@ tech:
   - Parrot OS
 ---
 
-This project aims to document the resolution of virtual machines from the Hack The Box platform, classifying each machine by its difficulty and operating system.
+Este proyecto tiene como objetivo documentar la resolución de máquinas virtuales de la plataforma Hack The Box, clasificando cada máquina según su dificultad y sistema operativo.

@@ -7,6 +7,6 @@ range: 'June 2017 - May 2018'
 url: 'https://einzelnet.com/'
 ---
 
-- Management, configuration and maintenance of technological infrastructures
-- Supervision and monitoring of virtualization systems
-- Administration of suppliers and integration of their services within the operating model offered to the client
+- Gestión, configuración y mantenimiento de infraestructuras tecnológicas
+- Supervisión y monitoreo de sistemas de virtualización
+- Administración de proveedores e integración de sus servicios dentro del modelo operativo ofrecido al cliente
