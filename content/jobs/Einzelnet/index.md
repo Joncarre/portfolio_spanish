@@ -3,7 +3,7 @@ date: '2017-03-07'
 title: 'Managed services'
 company: 'Einzelnet'
 location: 'Madrid, Spain'
-range: 'June 2017 - May 2018'
+range: 'June 2017 - June 2019'
 url: 'https://einzelnet.com/'
 ---
 
