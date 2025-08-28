@@ -1,12 +1,12 @@
 ---
-date: '2024-03-27'
+date: '2021-03-27'
 title: 'Genetic Algorithms in allocations'
 github: ''
-external: 'https://github.com/Joncarre/egalitarian-agreements-are-hard'
+external: 'https://github.com/Joncarre/proyectos-tesis-doctorado'
 tech:
-  - Algorithms
+  - Genetic Algorithms
   - Optimization
-  - Computational complexity
+  - Complexity
 company: ''
 showInProjects: true
 ---

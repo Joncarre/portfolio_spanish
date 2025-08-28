@@ -161,7 +161,7 @@ const ArchivePage = ({ location, data }) => {
               <tr>
                 <th>Año</th>
                 <th>Título</th>
-                <th className="hide-on-mobile">Hecho en</th>
+                <th className="hide-on-mobile"></th>
                 <th className="hide-on-mobile">Construido con</th>
               </tr>
             </thead>

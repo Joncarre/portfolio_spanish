@@ -1,11 +1,12 @@
 ---
-date: '2021-03-27'
+date: '2019-03-27'
 title: 'Protein Folding Model'
 github: ''
-external: 'https://github.com/Joncarre/java-language/tree/master/Algoritmos%20bioinspirados/Hydrophobic%20Polar%20basic%20model'
+external: 'https://github.com/Joncarre/java-language/tree/master/Algoritmos%20bioinspirados'
 tech:
   - Java
   - Particle Swarm
+  - Protein folding
 company: ''
 showInProjects: true
 ---
