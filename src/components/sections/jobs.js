@@ -452,6 +452,22 @@ const Jobs = () => {
       {/* Grid de citas famosas */}
       <StyledQuotesGrid>
         <a
+          href="/fernando.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ textDecoration: 'none' }}>
+          <StyledQuoteCard>
+            <p className="quote-text">
+              Siempre ha demostrado una actitud magnífica. Es una persona trabajadora, con muy buena formación y con ilusión por afrontar nuevos retos.
+            </p>
+            <p className="quote-author">
+              - <span className="author-name">Fernando, Dpto. Sistemas Informáticos y Computación</span>
+            </p>
+          </StyledQuoteCard>
+        </a>
+      </StyledQuotesGrid>
+            <StyledQuotesGrid>
+        <a
           href="/litterator.pdf"
           target="_blank"
           rel="noopener noreferrer"
